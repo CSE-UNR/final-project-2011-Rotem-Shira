@@ -20,7 +20,7 @@ do{
 
 tNum = 0;
 
-fileConnection(hiddenA);//asks user for level of difficulty and loading the correct file on the hidden array
+fileConnection(hiddenA); 
 
 for(iRow=0; iRow<MAX; iRow++){
 	for(iCol=0; iCol<MAX; iCol++){
